@@ -1,0 +1,12 @@
+to run app open chat app folder in vs code, then..
+1) log in into 'mongodb atlas' goto chatapp -> clusters -> cluster0 -> browse collections
+2) then come in vs code , in first terminal -> cd backend -> npm run dev
+3) open another terminal and write-> cd frontend -> npm run dev
+
+
+to chat simultaneously , open one tab in Microsoft edge and another tab in chrome(just copy that same url and paste in chrome and login with different)
+1) then creates two accounts in project login page of two tabs
+2) first => name:Joney , email: joney@example.com , password:987654.
+   second => name: shreya don , email:shrey@example.com , password:234567
+
+now you can see eachother online and chat in real time
